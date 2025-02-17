@@ -1,1 +1,2 @@
-hello ther git practice file
+hello there git practice file
+day-7 practice
